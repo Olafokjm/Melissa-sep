@@ -1,0 +1,98 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+}
+
+/* Estilos para las cajas de contenido */
+.content-box {
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Imágenes de fondo para cada sección */
+.bg-image1 {
+    background-image: url('../img/image1.jpg');
+}
+
+.bg-image2 {
+    background-image: url('../img/image2.jpg');
+}
+
+.bg-image3 {
+    background-image: url('../img/image3.jpg');
+}
+
+.page-title{
+    background: #72717188;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.back-button{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.body-page{
+    margin-bottom: 30px;
+}
+
+.modal-body img{
+    width: 100%;
+}
+
+.integrantes-equipo{
+    display: block;
+}
+
+.integrantes-equipo hr{
+    margin: 20px 0;
+    background-color: gray;
+    border: none;
+    height: 3px;
+}
+
+.integrante{
+    width: 100%;
+    display: block;
+}
+
+.integrante h6{
+    margin-top: 20px;
+}
+
+.integrante-card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
+.int-img{
+    width: 20%;
+}
+
+.int-info{
+    width: 70%;
+}
+
+.int-img img{
+    width: 100%;
+}
+
+.acuerdo-trabajo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.acuerdo-trabajo img{
+    width: 60%;
+    margin: 0 auto;
+}
