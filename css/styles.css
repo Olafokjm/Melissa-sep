@@ -146,10 +146,12 @@ body li{
 .entorno-img{
     width: 100%;
     height: auto;
+    margin: 20px 0;
 }
 
 .entorno-img img{
     width: 100%;
+    height: auto;
 }
 
 
