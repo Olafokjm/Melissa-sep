@@ -139,19 +139,29 @@ body li{
 }
 
 .valores ul li,
-.entorno ul li{
+.entorno ul li,
+.capacidades ul li{
     list-style: disc;
 }
 
-.entorno-img{
+.entorno-img,
+.capacidades-img,
+.grafico{
+    display: flex;
     width: 100%;
     height: auto;
     margin: 20px 0;
 }
 
-.entorno-img img{
+.entorno-img img,
+.grafico img{
     width: 100%;
     height: auto;
+}
+
+.capacidades-img img{
+    max-width: 600px;
+    margin: auto;
 }
 
 
