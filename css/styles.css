@@ -164,5 +164,35 @@ body li{
     margin: auto;
 }
 
+/**Formulacion**/
+.bg3-image1 {
+    background-image: url('../img/DOFA.jpg');
+}
 
+.bg3-image2 {
+    background-image: url('../img/objetivos.jpg');
+}
 
+.bg3-image3 {
+    background-image: url('../img/tacticas.jpg');
+}
+
+.bg3-image4 {
+    background-image: url('../img/brief.jpg');
+}
+
+.brief-gerencial,
+.objetivos-estrategicos{
+    margin: 10px;
+}
+
+.brief-gerencial ol li,
+.objetivos-estrategicos ol li{
+    list-style: decimal;
+    margin-left: 18px;
+}
+
+.brief-gerencial ul li,
+.objetivos-estrategicos ul li{
+    list-style: disc;
+}
