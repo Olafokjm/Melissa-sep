@@ -196,3 +196,25 @@ body li{
 .objetivos-estrategicos ul li{
     list-style: disc;
 }
+
+/**Evaluación e implementación**/
+
+.bg4-image1 {
+    background-image: url('../img/mapaE.jpg');
+}
+
+.bg4-image2 {
+    background-image: url('../img/scorecard.jpg');
+}
+
+.bg4-image3 {
+    background-image: url('../img/Acultural.jpg');
+}
+
+.bg4-image4 {
+    background-image: url('../img/auditoria.jpg');
+}
+
+.bg4-image5 {
+    background-image: url('../img/riesgo.jpg');
+}
